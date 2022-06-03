@@ -36,3 +36,5 @@ export const getDb = async () => {
 };
 
 initdb();
+
+console.log("database built")
